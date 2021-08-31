@@ -1,7 +1,7 @@
 - 👋 Hi, I’m naresh valvi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me nvalvi63@gmail.com
 
 <!---
