@@ -1,7 +1,5 @@
 - 👋 Hi, I’m naresh valvi
 - 👀 I’m interested in web development
-- 🌱 I’m currently working as react developer in startup
-- 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me nvalvi63@gmail.com
 
 <!---
